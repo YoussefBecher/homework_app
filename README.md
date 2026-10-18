@@ -1,17 +1,27 @@
-# homework_app
+﻿# homework_app
 
-A new Flutter project.
+Application mobile Flutter de présentation de voitures, réalisée dans le cadre d'un exercice de cours.
 
-## Getting Started
+## Fonctionnalités
 
-This project is a starting point for a Flutter application.
+- Affichage d'une image de voiture avec sa description.
+- Bouton Change : passe à la voiture suivante (image et description changent ensemble).
+- Menu latéral : Nombre d'images, Liste des marques, Réinitialiser, Quitter.
+- Icône message dans la barre du haut : affiche « mon application mobile ».
 
-A few resources to get you started if this is your first Flutter project:
+## Voitures présentées
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+BMW, Bugatti, Renault, Mercedes-AMG, Rolls-Royce, Tesla.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+
+Flutter et Dart.
+
+## Lancer le projet
+
+    flutter pub get
+    flutter run
+
+## Auteur
+
+Youssef Becher
